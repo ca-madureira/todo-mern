@@ -11,6 +11,7 @@ O projeto tem como objetivo:
 - Node js
 - Express
 - Rest Api
+- MongoDB
 
 
 
@@ -18,3 +19,4 @@ O projeto tem como objetivo:
 
      ![todo](https://github.com/ca-madureira/todo-mern/assets/121184472/a8c36f8c-6be5-4c58-aafd-5842bfece542)
 
+Aula ministrada por: [The Brave Coders](https://www.youtube.com/watch?v=PvMDWbAPPK4)
